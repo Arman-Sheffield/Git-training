@@ -1,3 +1,3 @@
 # this is a example website for the training to create a webiste
 
-![](https://raw.githubusercontent.com/RSE-Sheffield/RSE-Sheffield.github.io/master/assets/images/logo/rse-logoonly-stroke-small.png)
+[Link to another page] https://www.google.com/search?q=lions&sca_esv=fe33c2d79fc146ed&rlz=1C1GCEA_enGB1179GB1181&udm=2&biw=1280&bih=631&sxsrf=AE3TifPGiR7ntsQFKIlpQYamZk_vM5UvZA%3A1761646984798&ei=iJkAaci9MOOGhbIPjri_8Qg&ved=0ahUKEwjIof611saQAxVjQ0EAHQ7cL44Q4dUDCBI&uact=5&oq=lions&gs_lp=Egtnd3Mtd2l6LWltZyIFbGlvbnMyCBAAGIAEGLEDMgUQABiABDIIEAAYgAQYsQMyBRAAGIAEMgoQABiABBixAxgKMggQABiABBixAzIFEAAYgAQyCBAAGIAEGLEDMgUQABiABDIIEAAYgAQYsQNI-hlQ1gRYwRhwAngAkAEAmAFloAH1BKoBAzguMbgBA8gBAPgBAZgCC6ACnAWoAgXCAgcQIxgnGMkCwgIKEAAYgAQYQxiKBcICDRAAGIAEGLEDGEMYigXCAhAQABiABBixAxhDGIMBGIoFwgILEAAYgAQYsQMYgwHCAgoQIxgnGMkCGOoCwgIOEAAYgAQYsQMYgwEYigWYAwWIBgGSBwQxMC4xoAfnL7IHAzguMbgHkgXCBwUwLjcuNMgHHQ&sclient=gws-wiz-img
